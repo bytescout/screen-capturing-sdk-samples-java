@@ -1,2 +1,3 @@
 ## Index of source code examples:
 
+\Record screen video
